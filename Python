@@ -1,0 +1,15 @@
+# Python
+
+## Overview
+
+This folder contains Python code used for cleaning, transforming, and analyzing the E-commerce Sales dataset using Pandas and NumPy.
+
+## Objectives
+
+- Load the dataset
+- Explore the data
+- Check missing values
+- Remove duplicate records
+- Convert date columns
+- Create new features (Year and Month)
+- Perform sales analysis
